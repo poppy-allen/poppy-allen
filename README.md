@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @poppy-allen
-- 👀 I’m interested in becomming a full-stack developer
+- 👀 I’m interested in becoming a full-stack developer
 - 🌱 I’m currently learning HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 Contact me at poppyallen.dev@gmail.com
